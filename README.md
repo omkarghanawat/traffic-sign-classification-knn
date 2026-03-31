@@ -74,8 +74,7 @@ The following steps were performed in this project:
 ## Files Included in This Repository
 - `Traffic_Sign_Classification_KNN.ipynb`
 - `README.md`
-- `report.pdf` (if included)
-- `presentation.pdf` or `presentation.pptx` (if included)
+- `traffic sign recognition ppt.pptx`
 
 ## Conclusion
 The project successfully implemented traffic sign classification using the KNN algorithm. The final model achieved strong accuracy and demonstrated that machine learning can be effectively applied to image classification tasks in a syllabus-based academic project.
