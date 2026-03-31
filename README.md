@@ -51,7 +51,7 @@ The following steps were performed in this project:
 
 ## Best Model Result
 - **Best K value:** 1
-- **Accuracy Achieved:** 95.92%
+- **Accuracy Achieved:** 96.40%
 
 ## Features of the Project
 - Traffic sign dataset exploration
